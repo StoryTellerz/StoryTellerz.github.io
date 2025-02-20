@@ -1,2 +1,2 @@
-# StoryTellerz.github.io
+# StpryTellerz.github.io
 portfolio site
